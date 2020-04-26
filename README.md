@@ -12,8 +12,11 @@ Best part is it has customizable pipelines which makes task handy. Low latency a
 
 If you want more tutorial on SpaCy just raise issue I will upload it.
 
+### For more Understanding/Comparison of major NER framework refer 
+https://github.com/AbhiDhariwal/Hindi-NER/blob/master/Building%20Hindi%20NER%20for%20a%20simple%20Weather%20Bot.pdf
 
-for more advance architecture other than spacy refer (AllenNLP)
+
+For more advance architecture other than spacy refer (AllenNLP)
 
 https://medium.com/saarthi-ai/how-to-make-your-own-ner-model-with-contexual-word-embeddings-5086276e04a0
 
