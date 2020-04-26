@@ -14,5 +14,7 @@ If you want more tutorial on SpaCy just raise issue I will upload it.
 
 
 for more advance architecture other than spacy refer (AllenNLP)
+
 https://medium.com/saarthi-ai/how-to-make-your-own-ner-model-with-contexual-word-embeddings-5086276e04a0
+
 Hindi Dataset (source above link) :- https://drive.google.com/file/d/1lXz5BEm7BUFBY_ETP-mGAxrBddCBL5_i/view?usp=sharing
